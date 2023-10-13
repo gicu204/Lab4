@@ -1,3 +1,1 @@
-ion
-enter
- bird is bird but not an airplane 
+bird is bird but not an airplane 
