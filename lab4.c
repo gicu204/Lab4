@@ -16,10 +16,10 @@ char text[100];
     text[strlen(text) - 1] = '\0';
 
     int i,j,k,n,m,x,y,p,times,length,length2,length3,length4;
-    char entertext[100];
-    char entertext2[100];
-    char space[100];
-    char space2[100];
+    char entertext[1000];
+    char entertext2[1000];
+    char space[1000];
+    char space2[1000];
     int verify = 0;
     FILE *txt;
 
